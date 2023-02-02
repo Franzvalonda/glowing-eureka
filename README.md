@@ -2,7 +2,7 @@
 
 ### Programming Languages
 1. Java
-2. Phyton
+2. Python
 3. C
 
 ### JavaScript Frameworks
